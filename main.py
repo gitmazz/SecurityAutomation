@@ -14,6 +14,7 @@ cyber_security_facts = [
     "Firewalls act as a barrier between trusted and untrusted networks.",
     "A strong password is a crucial defense against unauthorized access.",
     "Security awareness training helps educate users about cyber threats.",
+    "This is a test."
 ]
 
 # Get today's date
